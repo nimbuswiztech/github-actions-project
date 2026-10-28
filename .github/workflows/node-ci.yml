@@ -1,6 +1,3 @@
-mkdir -p .github/workflows
-
-cat > .github/workflows/node-ci.yml <<'EOF'
 name: Node.js CI - Build Artifact
 
 on:
